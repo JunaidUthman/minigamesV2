@@ -57,7 +57,7 @@ public class Caracter : MonoBehaviour
             sc.GameOver();
             birdIsAlive = false;
         }
-        if(sc.playerScore > 100)
+        if(sc.playerScore == 100)
         {
             birdIsAlive = false;
             SceneManager.LoadScene("loby");

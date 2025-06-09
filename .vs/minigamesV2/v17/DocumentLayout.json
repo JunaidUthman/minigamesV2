@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Unity new\\minigamesV2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|c:\\users\\pc\\unity new\\minigamesv2\\assets\\astronaut\\scripts\\ast-opgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|solutionrelative:assets\\astronaut\\scripts\\ast-opgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity new\\minigamesV2\\assets\\astronaut\\scripts\\ast-caracterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|solutionrelative:assets\\astronaut\\scripts\\ast-caracterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|c:\\users\\pc\\unity new\\minigamesv2\\assets\\astronaut\\scripts\\ast-chancesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|solutionrelative:assets\\astronaut\\scripts\\ast-chancesmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity new\\minigamesV2\\assets\\astronaut\\scripts\\ast-scorecacul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|solutionrelative:assets\\astronaut\\scripts\\ast-scorecacul.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|C:\\Users\\PC\\Unity new\\minigamesV2\\assets\\astronaut\\scripts\\ast-caracterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8075E608-9603-9F33-1FFF-9D83268F4C97}|Assembly-CSharp.csproj|solutionrelative:assets\\astronaut\\scripts\\ast-caracterscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "AST-OpGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Unity new\\minigamesV2\\Assets\\astronaut\\Scripts\\AST-OpGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\astronaut\\Scripts\\AST-OpGenerator.cs",
+              "ToolTip": "C:\\Users\\PC\\Unity new\\minigamesV2\\Assets\\astronaut\\Scripts\\AST-OpGenerator.cs",
+              "RelativeToolTip": "Assets\\astronaut\\Scripts\\AST-OpGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T03:06:02.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AST-ScoreCacul.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Unity new\\minigamesV2\\Assets\\astronaut\\Scripts\\AST-ScoreCacul.cs",
               "RelativeDocumentMoniker": "Assets\\astronaut\\Scripts\\AST-ScoreCacul.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "Assets\\astronaut\\Scripts\\AST-ScoreCacul.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T17:27:56.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-08T17:27:56.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AST-ChancesManager.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Unity new\\minigamesV2\\Assets\\astronaut\\Scripts\\AST-ChancesManager.cs",
               "RelativeDocumentMoniker": "Assets\\astronaut\\Scripts\\AST-ChancesManager.cs",
@@ -52,13 +68,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AST-CaracterScript.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Unity new\\minigamesV2\\Assets\\astronaut\\Scripts\\AST-CaracterScript.cs",
               "RelativeDocumentMoniker": "Assets\\astronaut\\Scripts\\AST-CaracterScript.cs",
               "ToolTip": "C:\\Users\\PC\\Unity new\\minigamesV2\\Assets\\astronaut\\Scripts\\AST-CaracterScript.cs",
               "RelativeToolTip": "Assets\\astronaut\\Scripts\\AST-CaracterScript.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwDoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wEEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T16:28:09.26Z",
               "EditorCaption": ""
